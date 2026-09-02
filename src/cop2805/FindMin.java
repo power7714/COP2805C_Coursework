@@ -16,7 +16,7 @@ package cop2805;
  * to find the min and return the value.
  */
 
-public class SteveFindMin {
+public class FindMin {
 	
     // Logic for finding the generic min in an array
     public static <E extends Comparable<E>> E min(E[] inputArray) {

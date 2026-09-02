@@ -26,7 +26,7 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SteveCommCalc {
+public class CommCalc {
 	public static void main(String[] args) {
         // To keep things clean and neat, main only instantiates the GUI
 		// This line ensures that createAndShowGUI() runs on the correct thread

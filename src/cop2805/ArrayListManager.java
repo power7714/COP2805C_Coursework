@@ -24,7 +24,7 @@ package cop2805;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class SteveArrayListManager 
+public class ArrayListManager 
 {
 	
 	static ArrayList<Double> myList = new ArrayList<Double>();
